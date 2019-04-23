@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="aboutTitle">Tic Tac Toe</string>
+    <string name="aboutText">A simple Tic Tac Toe demo to test activities and fragments.
+        \n\nMade by Janne Salonen</string>
+    <string name="continue_button">Continue</string>
+    <string name="new_button">New Game</string>
+    <string name="about_button">About</string>
+
+</resources>
